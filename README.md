@@ -42,7 +42,6 @@ CONNECT WITH ME
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=ciftciruveyda@gmail.com">
-
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/r%C3%BCveyda-%C3%A7iftci-5b1836250/">
