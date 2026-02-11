@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=1000&color=93C5FD&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER" />
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=1&pause=100000&color=8B5CF6&center=true&vCenter=true&width=400&lines=%E2%9C%A8+ABOUT+ME+%E2%9C%A8" />
+<h3 align="center" style="color:#8B5CF6; font-family: 'Space Grotesk', sans-serif;">
+ABOUT ME
 </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@ I value <b>clean code</b>, <b>good design</b>, and learning through real-world p
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=1&pause=100000&color=8B5CF6&center=true&vCenter=true&width=420&lines=%F0%9F%9A%80+TECH+STACK+%F0%9F%9A%80" />
+<h3 align="center" style="color:#8B5CF6; font-family: 'Space Grotesk', sans-serif;">
+TECH STACK
 </h3>
 
 <p align="center">
@@ -30,8 +30,8 @@ I value <b>clean code</b>, <b>good design</b>, and learning through real-world p
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=1&pause=100000&color=8B5CF6&center=true&vCenter=true&width=480&lines=%F0%9F%8C%90+CONNECT+WITH+ME+%F0%9F%8C%90" />
+<h3 align="center" style="color:#8B5CF6; font-family: 'Space Grotesk', sans-serif;">
+CONNECT WITH ME
 </h3>
 
 <p align="center">
@@ -44,6 +44,3 @@ I value <b>clean code</b>, <b>good design</b>, and learning through real-world p
   </a>
 </p>
 
-<p align="center" style="font-size:13px;color:gray;">
-  ciftciruveyda@gmail.com
-</p>
