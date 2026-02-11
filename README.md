@@ -24,7 +24,7 @@ I value <b>clean code</b>, <b>good design</b>, and learning through real-world p
 
 <!-- TECH STACK -->
 <h2 align="center" style="color:##6EC1E4; letter-spacing:2px;">
-TECH STACK
+WHAT I WORK WITH
 </h2>
 
 <p align="center">
