@@ -13,6 +13,7 @@
 ✨ ABOUT ME ✨
 </h2>
 
+
 <p align="center">
 I am a software engineering student focused on building modern and scalable applications.<br/>
 I work across the full stack, combining web, mobile, and AI technologies.<br/>
