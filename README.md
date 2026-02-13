@@ -15,7 +15,7 @@
 
 
 <p align="center">
-I am a software engineering student focused on building modern and scalable applications.<br/>
+I am a software engineer focused on building modern and scalable applications.<br/>
 I work across the full stack, combining web, mobile, and AI technologies.<br/>
 I value <b>clean code</b>, <b>good design</b>, and learning through real-world projects.
 </p>
